@@ -12,7 +12,8 @@
     "nodemon": "^2.0.2"
   },
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "node src/index.js",
+    "dev": "nodenon src/index.js"
   },
   "author": "",
   "license": "ISC",
